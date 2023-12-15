@@ -1,0 +1,10 @@
+gcp_credentials = "whale-lab01-3ab9f0467107.json"
+gcp_project_id = "whale-lab01"
+gcp_region = "europe-southwest1-a"
+gke_zones= ["europe-southwest1-a"]
+gke_regional = false 
+gke_network = "default"
+gke_subnetwork = "default"
+gke_service_account_name = "terraform-service-account@whale-lab01.iam.gserviceaccount.com"
+gke_cluster_name = "whale-lab01"
+gke_default_nodepool_name= "whale-node-pool"
